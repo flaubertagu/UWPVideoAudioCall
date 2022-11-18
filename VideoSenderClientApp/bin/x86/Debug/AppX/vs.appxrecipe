@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3FJOLQP</Machine>
+    <WindowsUser>Flaubert Le Khem</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d5269ce6-6960-47a0-b263-1802ace4fdda</PackageIdentityName>
+    <PackageIdentityPublisher>CN=guill</PackageIdentityPublisher>
+    <IntermediateOutputPath>G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>ECFD364CF3D56CCF72EE0A5DAD282CCB33E4315CAFC20397F6C96FA8B6F35144</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d5269ce6-6960-47a0-b263-1802ace4fdda_1.0.0.0_x86__z32ngya1dpapg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d5269ce6-6960-47a0-b263-1802ace4fdda_z32ngya1dpapg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d5269ce6-6960-47a0-b263-1802ace4fdda</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=guill</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-18T12:00:48.964</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.exe">
+      <PackagePath>entrypoint\VideoSenderClientApp.exe</PackagePath>
+      <Modified>2022-11-18T12:00:48.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.connections.abstractions\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.Connections.Abstractions.dll">
+      <PackagePath>Microsoft.AspNetCore.Connections.Abstractions.dll</PackagePath>
+      <Modified>2020-06-17T21:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.http.connections.client\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Client.dll</PackagePath>
+      <Modified>2020-06-17T22:10:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.http.connections.common\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Common.dll</PackagePath>
+      <Modified>2020-06-17T22:10:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.http.features\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Features.dll</PackagePath>
+      <Modified>2020-06-17T21:58:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.signalr.client\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.dll</PackagePath>
+      <Modified>2020-06-17T22:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.signalr.client.core\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.Core.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.Core.dll</PackagePath>
+      <Modified>2020-06-17T22:10:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.signalr.common\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Common.dll</PackagePath>
+      <Modified>2020-06-17T22:00:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.signalr.protocols.json\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Protocols.Json.dll</PackagePath>
+      <Modified>2020-06-17T22:10:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.1\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-04-14T22:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.configuration\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+      <Modified>2020-06-17T06:47:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+      <Modified>2020-06-17T06:47:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.configuration.binder\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+      <Modified>2020-06-17T06:47:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.6\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+      <Modified>2020-06-17T06:48:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.1.6\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2020-06-17T06:47:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.logging\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2020-06-17T06:48:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2020-06-17T06:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.options\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+      <Modified>2020-06-17T06:47:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.extensions.primitives\3.1.6\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+      <Modified>2020-06-17T06:47:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T19:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\system.io.pipelines\4.7.1\lib\netstandard2.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+      <Modified>2020-02-21T03:57:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\system.runtime.compilerservices.unsafe\4.7.1\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-02-21T03:57:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\system.text.encodings.web\4.7.1\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2020-04-14T22:39:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\system.text.json\4.7.2\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+      <Modified>2020-04-14T22:39:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\system.threading.channels\4.7.1\lib\netstandard2.0\System.Threading.Channels.dll">
+      <PackagePath>System.Threading.Channels.dll</PackagePath>
+      <Modified>2020-04-14T22:39:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\win2d.uwp\1.25.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2020-04-02T19:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\win2d.uwp\1.25.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2020-04-02T19:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-25T21:10:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.xr.xml">
+      <PackagePath>VideoSenderClientApp.xr.xml</PackagePath>
+      <Modified>2022-11-18T11:59:18.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-11-18T12:00:47.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\AudioRecord.xbf">
+      <PackagePath>Views\AudioRecord.xbf</PackagePath>
+      <Modified>2022-11-18T12:00:47.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2022-11-18T12:00:47.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\TextChat.xbf">
+      <PackagePath>Views\TextChat.xbf</PackagePath>
+      <Modified>2022-11-18T12:00:47.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\VideoChat.xbf">
+      <PackagePath>Views\VideoChat.xbf</PackagePath>
+      <Modified>2022-11-18T12:00:47.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T16:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-11-18T09:58:26.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Core\VideoSenderClientApp.exe">
+      <PackagePath>VideoSenderClientApp.exe</PackagePath>
+      <Modified>2022-11-18T12:00:48.959</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Flaubert Le Khem\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
