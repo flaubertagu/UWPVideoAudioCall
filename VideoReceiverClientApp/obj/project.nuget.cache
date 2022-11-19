@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BMzVRw0yhHHVGGZoAnl4FGd36GHXfZXdwklDK+rZmNARlwgiW6TuflTeUnN7PpAA8FBMRv89ZJ44MP56TUFGcQ==",
+  "dgSpecHash": "66p8ZYl28HYDPPZ+JFsCJVx/6Nbi36lemZJeKT47TNptLnLW9LOXM+Amus76lL/+ohmrKWzI0ruIO29FraI22w==",
   "success": true,
-  "projectFilePath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
+  "projectFilePath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\microsoft.aspnetcore.http.connections.client.3.1.6.nupkg.sha512",

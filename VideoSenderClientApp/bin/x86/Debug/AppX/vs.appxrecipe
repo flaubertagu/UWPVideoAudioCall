@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d5269ce6-6960-47a0-b263-1802ace4fdda</PackageIdentityName>
     <PackageIdentityPublisher>CN=guill</PackageIdentityPublisher>
-    <IntermediateOutputPath>G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>ECFD364CF3D56CCF72EE0A5DAD282CCB33E4315CAFC20397F6C96FA8B6F35144</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8F0E3DE4CC01EBD899B0F40F099D54D924F73A63E069202A79ACBBDBA7D5D043</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d5269ce6-6960-47a0-b263-1802ace4fdda_1.0.0.0_x86__z32ngya1dpapg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d5269ce6-6960-47a0-b263-1802ace4fdda_z32ngya1dpapg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d5269ce6-6960-47a0-b263-1802ace4fdda</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-18T12:00:48.964</Modified>
+      <Modified>2022-11-19T23:27:57.449</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.exe">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.exe">
       <PackagePath>entrypoint\VideoSenderClientApp.exe</PackagePath>
-      <Modified>2022-11-18T12:00:48.077</Modified>
+      <Modified>2022-11-19T23:27:56.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\.nuget\packages\microsoft.aspnetcore.connections.abstractions\3.1.6\lib\netstandard2.0\Microsoft.AspNetCore.Connections.Abstractions.dll">
       <PackagePath>Microsoft.AspNetCore.Connections.Abstractions.dll</PackagePath>
@@ -146,79 +146,79 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T17:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-25T21:10:43.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\VideoSenderClientApp.xr.xml">
       <PackagePath>VideoSenderClientApp.xr.xml</PackagePath>
-      <Modified>2022-11-18T11:59:18.576</Modified>
+      <Modified>2022-11-19T22:20:03.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-11-18T12:00:47.979</Modified>
+      <Modified>2022-11-19T23:27:55.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\AudioRecord.xbf">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Views\AudioRecord.xbf">
       <PackagePath>Views\AudioRecord.xbf</PackagePath>
-      <Modified>2022-11-18T12:00:47.980</Modified>
+      <Modified>2022-11-19T23:27:55.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2022-11-18T12:00:47.980</Modified>
+      <Modified>2022-11-19T23:27:55.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\TextChat.xbf">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Views\TextChat.xbf">
       <PackagePath>Views\TextChat.xbf</PackagePath>
-      <Modified>2022-11-18T12:00:47.980</Modified>
+      <Modified>2022-11-19T23:27:55.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Views\VideoChat.xbf">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Views\VideoChat.xbf">
       <PackagePath>Views\VideoChat.xbf</PackagePath>
-      <Modified>2022-11-18T12:00:47.980</Modified>
+      <Modified>2022-11-19T23:27:55.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T16:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-18T09:58:26.434</Modified>
+      <Modified>2022-11-19T11:39:31.357</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoSenderClientApp\bin\x86\Debug\Core\VideoSenderClientApp.exe">
+    <AppxPackagedFile Include="C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoSenderClientApp\bin\x86\Debug\Core\VideoSenderClientApp.exe">
       <PackagePath>VideoSenderClientApp.exe</PackagePath>
-      <Modified>2022-11-18T12:00:48.959</Modified>
+      <Modified>2022-11-19T23:27:57.443</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

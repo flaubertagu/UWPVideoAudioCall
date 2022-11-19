@@ -25,15 +25,17 @@ namespace VideoSenderClientApp.Views
 {
     public sealed partial class VideoChat : UserControl
     {
-        MediaCapture videoCapture;
-        bool isVideoPreviewing;
-        DisplayRequest videoDisplayRequest = new DisplayRequest();
         public VideoChat()
         {
             this.InitializeComponent();
         }
 
-        private bool ValidateCertificate(object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors) => true;
+        MediaCapture videoCapture;
+        bool isVideoPreviewing;
+        DisplayRequest videoDisplayRequest = new DisplayRequest();
+        static bool isStreamingOut = false;
+        static Queue<VideoFrame> VideoFramesQueue = new Queue<VideoFrame>();
+        int delayMilliSeconds = 20;
         
         private async void MainGrid_Loaded(object sender, RoutedEventArgs e)
         {
@@ -57,6 +59,7 @@ namespace VideoSenderClientApp.Views
         }
 
         public CaptureElement videocaptureElement = new CaptureElement();
+
         private async Task StartPreviewAsync()
         {
             try
@@ -117,11 +120,6 @@ namespace VideoSenderClientApp.Views
             await lowLagCapture.FinishAsync();
         }
 
-
-
-        static bool isStreamingOut = false;
-        static Queue<VideoFrame> VideoFramesQueue = new Queue<VideoFrame>();
-        int delayMilliSeconds = 20;
         private void RecordVideo_Click(object sender, RoutedEventArgs e)
         {
             isStreamingOut = RecordVideo.IsChecked ?? false;
@@ -156,6 +154,7 @@ namespace VideoSenderClientApp.Views
                 }
             }
         } 
+
         private async Task StreamOutFrames()
         {
             try

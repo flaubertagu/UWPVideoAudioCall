@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj": {}
+    "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj": {}
   },
   "projects": {
-    "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj": {
+    "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
+        "projectUniqueName": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
         "projectName": "VideoReceiverClientApp",
-        "projectPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
+        "projectPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\VideoReceiverClientApp.csproj",
         "packagesPath": "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\",
-        "outputPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoReceiverClientApp\\obj\\",
+        "outputPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoReceiverClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

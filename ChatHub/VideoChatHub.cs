@@ -10,6 +10,7 @@ namespace ChatHub
         public async Task UploadStream(byte[] stream)
         {
             await Clients.All.DownloadVideoStream(stream);
+            Console.WriteLine($"{stream.Length}");
         }
 
         public async Task UploadAudioStream(byte[] stream)

@@ -22,3 +22,27 @@ G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\ChatHub\obj\Debug\
 G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ChatHub.props
 G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ChatHub.props
 G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ChatHub.props
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.exe
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.deps.json
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.runtimeconfig.json
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.runtimeconfig.dev.json
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.dll
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\bin\Debug\netcoreapp3.1\ChatHub.pdb
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.csproj.AssemblyReference.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.AssemblyInfoInputs.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.AssemblyInfo.cs
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.csproj.CoreCompileInputs.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\ChatHub.StaticWebAssets.Manifest.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\ChatHub.StaticWebAssets.Pack.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ChatHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ChatHub.props
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ChatHub.props
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ChatHub.props
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.RazorTargetAssemblyInfo.cache
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.dll
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.pdb
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\ChatHub\obj\Debug\netcoreapp3.1\ChatHub.genruntimeconfig.cache

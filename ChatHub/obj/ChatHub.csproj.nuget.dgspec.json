@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\ChatHub\\ChatHub.csproj": {}
+    "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\ChatHub\\ChatHub.csproj": {}
   },
   "projects": {
-    "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\ChatHub\\ChatHub.csproj": {
+    "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\ChatHub\\ChatHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\ChatHub\\ChatHub.csproj",
+        "projectUniqueName": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\ChatHub\\ChatHub.csproj",
         "projectName": "ChatHub",
-        "projectPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\ChatHub\\ChatHub.csproj",
+        "projectPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\ChatHub\\ChatHub.csproj",
         "packagesPath": "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\",
-        "outputPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\ChatHub\\obj\\",
+        "outputPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\ChatHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -14439,11 +14439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoSenderClientApp\\VideoSenderClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoSenderClientApp\\VideoSenderClientApp.csproj",
       "projectName": "VideoSenderClientApp",
-      "projectPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoSenderClientApp\\VideoSenderClientApp.csproj",
+      "projectPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoSenderClientApp\\VideoSenderClientApp.csproj",
       "packagesPath": "C:\\Users\\Flaubert Le Khem\\.nuget\\packages\\",
-      "outputPath": "G:\\Raspberry pi Serv\\From Internet\\VideoChat-master\\VideoChat\\VideoSenderClientApp\\obj\\",
+      "outputPath": "C:\\Users\\Flaubert Le Khem\\Documents\\GitHub\\UWP_Chat_audio_video\\UWPVideoAudioCall\\VideoSenderClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

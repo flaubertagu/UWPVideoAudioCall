@@ -29,6 +29,11 @@ namespace VideoReceiverClientApp
         }
 
         private void TextBoxUserName_TextChanged(object sender, TextChangedEventArgs e) => UserService.User = TextBoxUserName.Text;
-               
+
+        private async void Grid_Loaded(object sender, Windows.UI.Xaml.RoutedEventArgs e)
+        {
+            SignalRConn.init();
+            await SignalRConn.connection.StartAsync();
+        }
     }
 }

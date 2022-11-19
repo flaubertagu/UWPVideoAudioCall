@@ -55,6 +55,7 @@
     <uap6:Capability Name="graphicsCapture"/>
     <uap:Capability Name="picturesLibrary"/>
     <uap3:Capability Name="backgroundMediaPlayback"/>
+    <uap:Capability Name="musicLibrary"/>
     <DeviceCapability Name="webcam"/>
     <DeviceCapability Name="microphone"/>
     <DeviceCapability Name="backgroundMediaRecording" />

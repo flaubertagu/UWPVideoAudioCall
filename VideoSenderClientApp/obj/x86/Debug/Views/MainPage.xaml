@@ -26,6 +26,7 @@
             <local:TextChat Grid.RowSpan="2"/>
             <local:VideoChat Grid.Row="0" Grid.Column="1" />
             <local:AudioRecord Grid.Row="1" Grid.Column="1"/>
+            <!--<local:AudioRecord Grid.Row="0" Grid.Column="1"/>-->
         </Grid>        
     </Grid>
 </Page>

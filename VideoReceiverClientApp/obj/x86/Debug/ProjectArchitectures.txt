@@ -1,1 +1,1 @@
-G:\Raspberry pi Serv\From Internet\VideoChat-master\VideoChat\VideoReceiverClientApp\VideoReceiverClientApp.csproj;x86
+C:\Users\Flaubert Le Khem\Documents\GitHub\UWP_Chat_audio_video\UWPVideoAudioCall\VideoReceiverClientApp\VideoReceiverClientApp.csproj;x86

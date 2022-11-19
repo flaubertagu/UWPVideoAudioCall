@@ -120,6 +120,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Services\UserService.cs" />
+    <Compile Include="SignalRConn.cs" />
     <Compile Include="Views\VideoChat.xaml.cs">
       <DependentUpon>VideoChat.xaml</DependentUpon>
     </Compile>

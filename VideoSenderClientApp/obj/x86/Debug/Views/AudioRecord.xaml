@@ -5,9 +5,9 @@
     xmlns:local="using:VideoSenderClientApp.Views"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d"
-    d:DesignHeight="300"
-    d:DesignWidth="400">
+    mc:Ignorable="d">
+    <!--d:DesignHeight="300"
+    d:DesignWidth="400">-->
 
     <Grid x:ConnectionId='2' x:Name="AudioGrid"                                                        >
         <Grid.RowDefinitions>
@@ -15,12 +15,42 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal">
-            <AppBarToggleButton x:ConnectionId='3' x:Name="RecordAudio"                           Content="MicRecord">
+            <AppBarToggleButton x:ConnectionId='9' x:Name="RecordAudio"                           Content="MicRecord">
                 <AppBarToggleButton.Icon>
                     <SymbolIcon Symbol="Microphone"/>
                 </AppBarToggleButton.Icon>
             </AppBarToggleButton>
+            <AppBarButton x:ConnectionId='10' x:Name="Settings"                        Content="Settings" >
+                <AppBarButton.Icon>
+                    <SymbolIcon Symbol="Setting" />
+                </AppBarButton.Icon>
+            </AppBarButton>
         </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <StackPanel x:ConnectionId='3' x:Name="RefreshGrid" Grid.Row="0" Orientation="Horizontal">
+                <Button x:ConnectionId='8' x:Name="RefreshAllDevices" Content="Refresh all"                                 Margin="20,10,0,20" MinWidth="120" MinHeight="45"/>
+            </StackPanel>
+            <ScrollViewer x:ConnectionId='4' x:Name="SettingsGrid" Grid.Row="1" VerticalScrollMode="Auto" VerticalScrollBarVisibility="Auto">
+                <StackPanel HorizontalAlignment="Stretch">
+                    <ListBox x:ConnectionId='6' x:Name="outputDevicesListBox" IsEnabled="True" Margin="20" HorizontalAlignment="Stretch" MaxWidth="600"                                                         />
+                    <ListBox x:ConnectionId='7' x:Name="inputDevicesListBox" IsEnabled="True" Margin="20" HorizontalAlignment="Stretch" MaxWidth="600"                                                         RelativePanel.Below="outputDevicesListBox"/>
+                </StackPanel>
+            </ScrollViewer>
+            <!--<ScrollViewer x:Name="RecordGrid" Grid.Row="1" VerticalScrollMode="Auto" VerticalScrollBarVisibility="Auto">
+                <StackPanel HorizontalAlignment="Stretch">
+                    --><!--<Button x:Name="createGraphButton" Content="Create Graph" Click="CreateGraphButton_Click" Margin="0,30,0,0" MinWidth="120" MinHeight="45" IsEnabled="False"/>-->
+                    <!--<Button x:Name="fileButton" Content="Pick Output File" MinWidth="120" MinHeight="45" IsEnabled="False" Click="FileButton_Click"/>--><!--
+                    <Button x:Name="recordStopButton" Content="Record" Click="RecordStopButton_Click" Margin="20,75,0,0" MinWidth="120" MinHeight="45" IsEnabled="False"/>
+                    <Button x:Name="playStopButton" Content="Play" Click="PlayStopButton_Click" Margin="20" MinWidth="120" MinHeight="45" IsEnabled="False"/>
+                </StackPanel>
+            </ScrollViewer>-->
+            <!--<ListBox x:Name="MicDevices" SelectionChanged="MicDevices_SelectionChanged" />-->
+            <MediaElement x:ConnectionId='5' x:Name="mediaElement"/>
+        </Grid>
     </Grid>
 </UserControl>
 
